@@ -27,51 +27,62 @@ Hi, I’m Sushmitha — a detail-oriented and people-aware professional, deeply 
 I enjoy combining a strategic mindset with day-to-day execution. From annotating datasets to tracking deliverables and ensuring quality, I take pride in being dependable, organized, and purpose-driven.
 
 🎯 I'm actively seeking **entry-level roles** in Project Coordination, Annotation, and AI Evaluation — to make real-world impact through structure, clarity, and care.
+---
+## 🧠 Core Skillset Overview
+### 📋 Project Management & Team Coordination
+> 🛠️ **Tools**: ClickUp | Jira | Notion | Trello | Google Sheets | Excel  
+> 🗂️ Team Charters | Skill Mapping | Tool Evaluation Matrices  
+> 🕰️ Gantt Charts | Sprint Planning | Task Prioritization  
+> ✅ Task Tracking | Documentation | Timeline Mapping  
+> 🎯 Led cross-time-zone teams of 5+ during live projects
 
-### 🧰 My Skills & Toolbox
+---
 
-💫 **Content Writing**
-> ✍️ SEO Blogs  
-> 📝 Technical Writing  
-> 🛍️ Product Descriptions  
-> 🧾 Markdown + Formatting  
+### 🧾 Content Strategy & Technical Writing
+> ✍️ Blogs | Academic Reports | SEO Articles | UX Microcopy  
+> 📚 APA / MLA / IEEE Referencing  
+> 📄 Google Docs | Grammarly | Turnitin  
+> 🧩 Adapted handwritten content for digital publication & AI training  
+> 🗣️ Clear tone, structure, and intent across formats
 
-🌈 **Data Annotation**
-> 🧠 Tools: Label Studio | CVAT | Prodigy  
-> 🏷️ Text Tagging & NER  
-> 📦 Bounding Boxes  
-> 🎧 Audio Transcription  
+---
 
-📋 **Project Management**
-> 🗂️ Trello | Notion | Excel | Google Sheets  
-> 🕰️ Gantt Charts & Timelines  
-> ✅ Task Tracking & Workflow Documentation  
+### 🧪 Data Annotation & AI Training Support
+> 🛠️ Tools: Label Studio | CVAT | Prodigy  
+> 🏷️ Text Tagging | Named Entity Recognition (NER)  
+> 📦 Bounding Box Labeling  
+> 🎧 Audio Transcription | Metadata Categorization  
+> 🔍 QA Checks | Annotation Guidelines | Consistency Metrics
 
-🎨 **Creative Tools & Tech**
-> 💻 GitHub + GitHub Pages  
-> 🧵 Canva | ✨ Figma (basic)  
-> 📓 Jupyter Notebooks  
-> 🌐 Google Workspace Tools  
+---
 
+### 🎨 Creative & Collaboration Tools
+> 💻 GitHub + GitHub Pages (portfolio hosting)  
+> 🎨 Canva (presentations, infographics)  
+> ✨ Figma (basic UI/UX documentation)  
+> 🌐 Google Workspace (Docs, Slides, Forms, Meet)
 
-📌 Pinned Projects
-📘 Content Writing Portfolio
-✍️ Articles, blog posts, and product descriptions.
+---
 
-📂 Data Annotation Showcase
-📊 Text tagging, bounding boxes, and audio transcription samples.
+## 📌 Featured Projects
 
-📊 Project Tracker Kit
-📅 Notion + Excel templates for managing your team, time, and tasks.
+- 📘 **Content Writing Portfolio**  
+  *Published articles, freelance work, SEO blogs, and UX writing samples.*
 
-🌱 Currently Leveling Up In
-🚀 Prompt Engineering
+- 📂 **Data Annotation Showcase**  
+  *NER tagging, image labeling, and transcription samples aligned with LLMs.*
 
-📈 Data Visualization
+- 🗂️ **Project Tracker Kit**  
+  *ClickUp + Jira boards, Excel matrices, and Notion dashboards used in internships.*
 
-🧩 Agile + Project Management
+---
 
-🧪 Annotation Accuracy & QA
+## 🌱 Currently Leveling Up In
+
+- 🚀 Project management, Prompt Engineering & Generative AI Evaluation  
+- 📈 Visual Storytelling with PM Tools  
+- 🧩 Agile & Scrum (Practical Implementation)  
+- 🧪 Annotation QA | Cross-review & Error Analysis
 
 🤝 Let's Connect
 <p align="center"> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>

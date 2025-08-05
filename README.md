@@ -15,14 +15,18 @@
 
 ---
 
-### 🌺 About Me
+### 💡 About Me
 
-```yaml
-Name: Sushmitha K
-From: India 🇮🇳
-Passions: Writing ✍️ | Structuring Data 📊 | Organizing Chaos 📅
-Seeking: Entry-level roles in Content Writing / Annotation / PM
-Fun Fact: I'm always curious & never afraid to ask "why?" 💡
+Hi, I’m Sushmitha — a detail-oriented and people-aware professional, deeply passionate about building structured workflows and better AI systems.
+
+🔹 I’m currently focused on growing in:
+- 📋 **Project Management**: task tracking, sprint planning, timeline coordination  
+- 🧠 **Data Annotation & Search Evaluation**: tagging, QA, and judgment-based labeling for AI/LLMs  
+- ✨ **Workflow Optimization**: simplifying complex projects into actionable steps
+
+I enjoy combining a strategic mindset with day-to-day execution. From annotating datasets to tracking deliverables and ensuring quality, I take pride in being dependable, organized, and purpose-driven.
+
+🎯 I'm actively seeking **entry-level roles** in Project Coordination, Annotation, and AI Evaluation — to make real-world impact through structure, clarity, and care.
 
 ### 🧰 My Skills & Toolbox
 

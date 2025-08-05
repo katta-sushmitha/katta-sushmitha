@@ -26,42 +26,41 @@ Fun Fact: I'm always curious & never afraid to ask "why?" 💡
 
 ### 🛠️ My Skills & Toolbox
 
-**✍️ Content Writing**  
-![SEO Blogs](https://img.shields.io/badge/SEO%20Blogs-blue?style=flat-square) 
-![Technical Writing](https://img.shields.io/badge/Technical%20Writing-lightgrey?style=flat-square) 
-![Product Copy](https://img.shields.io/badge/Product%20Copy-orange?style=flat-square) 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)  
+#### ✍️ Content Writing  
+![SEO Blogs](https://img.shields.io/badge/SEO_Blogs-blue?style=flat) 
+![Technical Writing](https://img.shields.io/badge/Technical_Writing-lightgrey?style=flat) 
+![Product Copy](https://img.shields.io/badge/Product_Copy-orange?style=flat) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)  
 
 ---
 
-**🧠 Data Annotation**  
-![Label Studio](https://img.shields.io/badge/Label%20Studio-7CFC00?style=flat-square) 
-![CVAT](https://img.shields.io/badge/CVAT-FFD700?style=flat-square) 
-![Prodigy](https://img.shields.io/badge/Prodigy-purple?style=flat-square)  
-![Text Tagging](https://img.shields.io/badge/Text%20Tagging-blueviolet?style=flat-square) 
-![Bounding Boxes](https://img.shields.io/badge/Bounding%20Boxes-lightpink?style=flat-square) 
-![Audio Transcription](https://img.shields.io/badge/Audio%20Transcription-brown?style=flat-square)  
+#### 🧠 Data Annotation  
+![Label Studio](https://img.shields.io/badge/Label_Studio-7CFC00?style=flat) 
+![CVAT](https://img.shields.io/badge/CVAT-FFD700?style=flat) 
+![Prodigy](https://img.shields.io/badge/Prodigy-purple?style=flat)  
+![Text Tagging](https://img.shields.io/badge/Text_Tagging-blueviolet?style=flat) 
+![Bounding Boxes](https://img.shields.io/badge/Bounding_Boxes-lightpink?style=flat) 
+![Audio Transcription](https://img.shields.io/badge/Audio_Transcription-brown?style=flat)  
 
 ---
 
-**📂 Project Management**  
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) 
-![Gantt Charts](https://img.shields.io/badge/Gantt%20Charts-FF69B4?style=flat-square) 
-![Task Tracking](https://img.shields.io/badge/Task%20Tracking-teal?style=flat-square)  
+#### 📂 Project Management  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white) 
+![Gantt Charts](https://img.shields.io/badge/Gantt_Charts-FF69B4?style=flat) 
+![Task Tracking](https://img.shields.io/badge/Task_Tracking-teal?style=flat)  
 
 ---
 
-**🎨 Creative Tools & Tech**  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white) 
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
-
+#### 🎨 Creative Tools & Tech  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter&logoColor=white) 
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white)
 
 
 📌 Pinned Projects

@@ -1,57 +1,25 @@
-<h1 align="center">Hi there 👋 I'm Sushmitha</h1>
+<!-- Creative GitHub Profile README for Sushmitha ✨ -->
 
-<p align="center">Aspiring <strong>Content Writer</strong> | <strong>Data Annotator</strong> | <strong>Project Management Enthusiast</strong></p>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hey there! I'm Sushmitha — welcome to my GitHub!
+</h2>
 
----
+<p align="center">
+  🌸 Aspiring <strong>Content Writer</strong> | <strong>Data Annotator</strong> | <strong>Project Manager in Training</strong> 🌸
+</p>
 
-### 💡 About Me
-
-🎯 I'm passionate about transforming ideas into impact — whether it's through well-crafted content, structured data for AI models, or managing tasks efficiently.
-
-📌 Currently seeking **entry-level roles** in:
-- ✍️ Content Writing (blogs, SEO, creative)
-- 🧠 Data Annotation (text, image, audio)
-- 🗂️ Project Management (task tracking, team collaboration)
-
----
-
-### 🔧 Skills & Tools
-
-- **Languages**: English (native), Telugu
-- **Content Writing**: SEO, creative, technical
-- **Annotation Tools**: Labelbox, Prodigy, CVAT, Amazon SageMaker
-- **PM Tools**: Trello, Notion, Excel, Google Sheets
-- **Others**: Canva, Figma basics, GitHub, Jupyter Notebooks
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Storytelling+in+words+and+data.;Making+AI+smarter+through+annotation.;Keeping+projects+on+track+like+a+pro." />
+</p>
 
 ---
 
-### 📌 Featured Projects
+### 🌺 About Me
 
-📁 **[Content Writing Portfolio](https://github.com/your-username/content-portfolio)**  
-✍️ Articles, blog posts, and product descriptions.
-
-📁 **[AI Data Annotation Samples](https://github.com/your-username/data-annotation-samples)**  
-📊 Text tagging, bounding boxes, and audio transcription samples.
-
-📁 **[Project Tracker (Notion/Excel)](https://github.com/your-username/project-tracker)**  
-🗓️ Simple templates for project tracking and planning.
-
----
-
-### 🌱 Currently Learning
-
-- Prompt engineering and ChatGPT workflows  
-- Project management methodologies (Agile/Scrum)  
-- Data labeling standards and ML basics
-
----
-
-### 📬 Connect with Me
-
-- 📧 Email: your.email@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📝 [Resume](https://link-to-your-resume)
-
----
-
-> “Stay curious, stay consistent — that's where the real magic begins.” ✨
+```yaml
+Name: Sushmitha K
+From: India 🇮🇳
+Passions: Writing ✍️ | Structuring Data 📊 | Organizing Chaos 📅
+Seeking: Entry-level roles in Content Writing / Annotation / PM
+Fun Fact: I'm always curious & never afraid to ask "why?" 💡

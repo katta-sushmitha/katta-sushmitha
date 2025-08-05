@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  🌸 Aspiring <strong>Content Writer</strong> | <strong>Data Annotator</strong> | <strong>Project Manager in Training</strong> 🌸
+ <strong>Project Manager in Training</strong> |  Aspiring <strong>Content Writer</strong> | <strong>Data Annotator</strong> |
 </p>
 
 <p align="center">

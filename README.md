@@ -24,13 +24,48 @@ Passions: Writing ✍️ | Structuring Data 📊 | Organizing Chaos 📅
 Seeking: Entry-level roles in Content Writing / Annotation / PM
 Fun Fact: I'm always curious & never afraid to ask "why?" 💡
 
-| Area          | Tools                               |
-| ------------- | ----------------------------------- |
-| ✍️ Writing    | SEO Blogs, Articles, Copywriting    |
-| 🧠 Annotation | Label Studio, Prodigy, CVAT         |
-| 🗂️ PM & Org  | Trello, Notion, Excel, Gantt Charts |
-| 🎨 Creative   | Canva, Figma (basic), GitHub Pages  |
-| 🔧 Others     | Markdown, GitHub, Google Workspace  |
+### 🛠️ My Skills & Toolbox
+
+**✍️ Content Writing**
+<br>
+<img src="https://img.shields.io/badge/SEO%20Blogs-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Technical%20Writing-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Product%20Copy-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+
+---
+
+**🧠 Data Annotation**
+<br>
+<img src="https://img.shields.io/badge/Label%20Studio-7CFC00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CVAT-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prodigy-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Text%20Tagging-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bounding%20Boxes-lightpink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Audio%20Transcription-brown?style=for-the-badge" />
+
+---
+
+**📂 Project Management**
+<br>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Gantt%20Charts-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Task%20Tracking-teal?style=for-the-badge" />
+
+---
+
+**🎨 Creative & Tools**
+<br>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+
 
 
 📌 Pinned Projects

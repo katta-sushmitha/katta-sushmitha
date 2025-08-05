@@ -26,45 +26,41 @@ Fun Fact: I'm always curious & never afraid to ask "why?" 💡
 
 ### 🛠️ My Skills & Toolbox
 
-**✍️ Content Writing**
-<br>
-<img src="https://img.shields.io/badge/SEO%20Blogs-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Technical%20Writing-lightgrey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Product%20Copy-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+**✍️ Content Writing**  
+![SEO Blogs](https://img.shields.io/badge/SEO%20Blogs-blue?style=for-the-badge)  
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-lightgrey?style=for-the-badge)  
+![Product Copy](https://img.shields.io/badge/Product%20Copy-orange?style=for-the-badge)  
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 
 ---
 
-**🧠 Data Annotation**
-<br>
-<img src="https://img.shields.io/badge/Label%20Studio-7CFC00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CVAT-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prodigy-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Text%20Tagging-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bounding%20Boxes-lightpink?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Audio%20Transcription-brown?style=for-the-badge" />
+**🧠 Data Annotation**  
+![Label Studio](https://img.shields.io/badge/Label%20Studio-7CFC00?style=for-the-badge)  
+![CVAT](https://img.shields.io/badge/CVAT-FFD700?style=for-the-badge)  
+![Prodigy](https://img.shields.io/badge/Prodigy-purple?style=for-the-badge)  
+![Text Tagging](https://img.shields.io/badge/Text%20Tagging-blueviolet?style=for-the-badge)  
+![Bounding Boxes](https://img.shields.io/badge/Bounding%20Boxes-lightpink?style=for-the-badge)  
+![Audio Transcription](https://img.shields.io/badge/Audio%20Transcription-brown?style=for-the-badge)  
 
 ---
 
-**📂 Project Management**
-<br>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Gantt%20Charts-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Task%20Tracking-teal?style=for-the-badge" />
+**📂 Project Management**  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+![Gantt Charts](https://img.shields.io/badge/Gantt%20Charts-FF69B4?style=for-the-badge)  
+![Task Tracking](https://img.shields.io/badge/Task%20Tracking-teal?style=for-the-badge)  
 
 ---
 
-**🎨 Creative & Tools**
-<br>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+**🎨 Creative Tools & Tech**  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)  
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
 
 
